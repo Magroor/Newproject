@@ -24,7 +24,7 @@ public class Testcase {
 
 public static double sum(int n1,int n2){
 
-
+    System.out.println("sum ");
 
    return n1+n2;
 
